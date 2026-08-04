@@ -870,7 +870,7 @@ AIGC:
 
 > 📋 **图片关键信息**：广告主名/65字/按钮选择
 
-![广告主名/65字/按钮选择](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005.png)
+![广告主名/65字/按钮选择](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005_fix38.png)
 <!-- 关键数据速查表开始 -->
 以下数据全部来自Naver规范原文，供AI输出验证和设计同学快速查阅。**禁止AI自行推断、换算或补充本表未列出的数值。**
 
