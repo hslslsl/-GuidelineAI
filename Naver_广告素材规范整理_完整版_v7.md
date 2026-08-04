@@ -147,7 +147,7 @@ AIGC:
 
 > 📋 **图片关键信息**：03背景指南综合说明，包含单色背景/图案渐变背景/图片背景/背景区域处理DO/DON'T对比
 
-![03背景指南综合说明：单色背景/图案渐变背景/图片背景/背景区域处理DO/DON'T对比](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_001.png)
+![03背景指南综合说明：单色背景/图案渐变背景/图片背景/背景区域处理DO/DON'T对比](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_001_fix5.png)
 
 **图片关键信息提取**：
 
@@ -241,7 +241,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Android各设备高度195dp适配说明
 
-![Android各设备高度195dp适配说明](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EB%B8%8C%EB%9E%9C%EB%94%A9DA_005.png)
+![Android各设备高度195dp适配说明](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EB%B8%8C%EB%9E%9C%EB%94%A9DA_005_fix9.png)
 
 #### 各设备横幅高度规范
 
@@ -379,7 +379,7 @@ AIGC:
 
 > 📋 **图片关键信息**：blog.naver.com/up to 15%/UVEXPERT
 
-![blog.naver.com/up to 15%/UVEXPERT](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C_008.png)
+![blog.naver.com/up to 15%/UVEXPERT](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C_008_fix16.png)
 
 📌 1:1比例广告示例2
 
@@ -403,7 +403,7 @@ AIGC:
 
 > 📋 **图片关键信息**：AD/15%OFF/UVEXPERT
 
-![AD/15%OFF/UVEXPERT](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C_008.png)
+![AD/15%OFF/UVEXPERT](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C_008_fix20.png)
 <!-- 关键数据速查表开始 -->
 以下数据全部来自Naver规范原文，供AI输出验证和设计同学快速查阅。**禁止AI自行推断、换算或补充本表未列出的数值。**
 
@@ -581,7 +581,7 @@ AIGC:
 
 > 📋 **图片关键信息**：LINE/300/246X246/SAFE AREA/300px*300px/200KB
 
-![LINE/300/246X246/SAFE AREA/300px*300px/200KB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008.png)
+![LINE/300/246X246/SAFE AREA/300px*300px/200KB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008_fix24.png)
 <!-- 关键数据速查表开始 -->
 以下数据全部来自Naver规范原文，供AI输出验证和设计同学快速查阅。**禁止AI自行推断、换算或补充本表未列出的数值。**
 
@@ -715,7 +715,7 @@ AIGC:
 
 > 📋 **图片关键信息**：LINE/300/SAFE AREA/300px*300px/200KB
 
-![LINE/300/SAFE AREA/300px*300px/200KB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008.png)
+![LINE/300/SAFE AREA/300px*300px/200KB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008_fix28.png)
 <!-- 关键数据速查表开始 -->
 以下数据全部来自Naver规范原文，供AI输出验证和设计同学快速查阅。**禁止AI自行推断、换算或补充本表未列出的数值。**
 
@@ -828,7 +828,7 @@ AIGC:
 
 > 📋 **图片关键信息**：LINE FRIENDS/Lumea
 
-![LINE FRIENDS/Lumea](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008.png)
+![LINE FRIENDS/Lumea](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008_fix31.png)
 
 📌 2:3比例界面示例
 
@@ -846,13 +846,13 @@ AIGC:
 
 > 📋 **图片关键信息**：多设备展示
 
-![多设备展示](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_006.png)
+![多设备展示](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_006_fix34.png)
 
 📌 LINE FRIENDS商品示例
 
 > 📋 **图片关键信息**：GREEN SHOPPING WEEK多设备投放示例
 
-![GREEN SHOPPING WEEK多设备投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008.png)
+![GREEN SHOPPING WEEK多设备投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008_fix35.png)
 
 📌 2:3安全区域规范
 
@@ -864,7 +864,7 @@ AIGC:
 
 > 📋 **图片关键信息**：LINE FRIENDS x GREEN SHOPPING WEEK示例
 
-![LINE FRIENDS x GREEN SHOPPING WEEK示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008.png)
+![LINE FRIENDS x GREEN SHOPPING WEEK示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%A0%84%EB%A9%B4%ED%98%95_008_fix37.png)
 
 📌 共同要素指南
 
@@ -983,7 +983,7 @@ AIGC:
 
 > 📋 **图片关键信息**：750X500px
 
-![750X500px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%87%BC%ED%95%91%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98_008.png)
+![750X500px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%87%BC%ED%95%91%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98_008_fix40.png)
 
 📌 맞춤형/일반형广告示例
 
@@ -1007,7 +1007,7 @@ AIGC:
 
 > 📋 **图片关键信息**：750x500px/300X200px/300KB至500KB/比例1.5:1
 
-![750x500px/300X200px/300KB至500KB/比例1.5:1](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%87%BC%ED%95%91%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98_003.png)
+![750x500px/300X200px/300KB至500KB/比例1.5:1](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%87%BC%ED%95%91%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98_003_fix44.png)
 <!-- 关键数据速查表开始 -->
 以下数据全部来自Naver规范原文，供AI输出验证和设计同学快速查阅。**禁止AI自行推断、换算或补充本表未列出的数值。**
 
@@ -1372,13 +1372,13 @@ AIGC:
 
 > 📋 **图片关键信息**：Domino's/Flexible投放示例
 
-![Domino's/Flexible投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_007.png)
+![Domino's/Flexible投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_007_fix47.png)
 
 📌 Logo位置示例
 
 > 📋 **图片关键信息**：CAOVER/NEWDISCOVERYSPORT投放示例
 
-![CAOVER/NEWDISCOVERYSPORT投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_004.png)
+![CAOVER/NEWDISCOVERYSPORT投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_004_fix48.png)
 
 📌 人物裁切方式示例
 
@@ -1390,7 +1390,7 @@ AIGC:
 
 > 📋 **图片关键信息**：14px/40px/30px字号示例
 
-![14px/40px/30px字号示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004.png)
+![14px/40px/30px字号示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004_fix50.png)
 
 ### 8.2.1 主体素材位置
 - 主体素材可放置在左侧或右侧
@@ -1486,7 +1486,7 @@ AIGC:
 
 > 📋 **图片关键信息**：16px(Regular)/고지문구/심의필 표기规范
 
-![16px(Regular)/고지문구/심의필 표기规范](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_011.png)
+![16px(Regular)/고지문구/심의필 표기规范](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_011_fix54.png)
 
 📌 禁止使用图片示例
 
@@ -1498,7 +1498,7 @@ AIGC:
 
 > 📋 **图片关键信息**：NEW DISCOVERY SPORT/A3스틸얼라이브示例/40px최소필수간격
 
-![NEW DISCOVERY SPORT/A3스틸얼라이브示例/40px최소필수간격](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_012.png)
+![NEW DISCOVERY SPORT/A3스틸얼라이브示例/40px최소필수간격](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_012_fix56.png)
 
 ### 8.3.1 文字区域基本规范
 - 文字区域可在无左右图标时横向拉伸
@@ -1636,7 +1636,7 @@ AIGC:
 
 > 📋 **图片关键信息**：260X200px/최대70%/PS Histogram确认
 
-![260X200px/최대70%/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_009.png)
+![260X200px/최대70%/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_009_fix60.png)
 
 📌 Logo位置示例
 
@@ -1648,13 +1648,13 @@ AIGC:
 
 > 📋 **图片关键信息**：14px/40px/NESPRESSO示例
 
-![14px/40px/NESPRESSO示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004.png)
+![14px/40px/NESPRESSO示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004_fix62.png)
 
 📌 标签Logo示例
 
 > 📋 **图片关键信息**：A:上半身 B:下半身 C:脚和手(Tiffany/Hmall/UNIQLO/NIKE示例)
 
-![A:上半身 B:下半身 C:脚和手(Tiffany/Hmall/UNIQLO/NIKE示例)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_005.png)
+![A:上半身 B:下半身 C:脚和手(Tiffany/Hmall/UNIQLO/NIKE示例)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_005_fix63.png)
 
 ### 9.2.1 主体素材位置
 - 主体素材可放置在左侧或右侧
@@ -1728,13 +1728,13 @@ AIGC:
 
 > 📋 **图片关键信息**：최소필수간격 40px/箭头按钮规范
 
-![최소필수간격 40px/箭头按钮规范](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004.png)
+![최소필수간격 40px/箭头按钮规范](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004_fix64.png)
 
 📌 字体规范
 
 > 📋 **图片关键信息**：#222222(Bold)/#666666(Regular)
 
-![#222222(Bold)/#666666(Regular)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_009.png)
+![#222222(Bold)/#666666(Regular)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_009_fix65.png)
 
 📌 字号规范
 
@@ -1746,7 +1746,7 @@ AIGC:
 
 > 📋 **图片关键信息**：16px(Regular)/고지문구 및 심의필 표기/30px/26px
 
-![16px(Regular)/고지문구 및 심의필 표기/30px/26px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_011.png)
+![16px(Regular)/고지문구 및 심의필 표기/30px/26px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_011_fix67.png)
 
 📌 行动诱导文案示例
 
@@ -1894,7 +1894,7 @@ AIGC:
 
 > 📋 **图片关键信息**：5대질환 암보험/심의필
 
-![5대질환 암보험/심의필](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_015.png)
+![5대질환 암보험/심의필](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_015_fix72.png)
 
 📌 使用面积规范
 
@@ -1906,7 +1906,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Tiffany Collection/TIFFANY & CO.投放示例
 
-![Tiffany Collection/TIFFANY & CO.投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_005.png)
+![Tiffany Collection/TIFFANY & CO.投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_005_fix74.png)
 
 📌 三种类型对比
 
@@ -1930,7 +1930,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Domino's/Flexible投放示例
 
-![Domino's/Flexible投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_007.png)
+![Domino's/Flexible投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_007_fix78.png)
 
 📌 人物裁切类型
 
@@ -1942,13 +1942,13 @@ AIGC:
 
 > 📋 **图片关键信息**：A-1:텍스트 로고/A-2:텍스트 오브젝트/B:심볼타입
 
-![A-1:텍스트 로고/A-2:텍스트 오브젝트/B:심볼타입](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_015.png)
+![A-1:텍스트 로고/A-2:텍스트 오브젝트/B:심볼타입](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_160_015_fix80.png)
 
 📌 缩略图示例
 
 > 📋 **图片关键信息**：H Fashion Mall/NESPRESSO示例
 
-![H Fashion Mall/NESPRESSO示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004.png)
+![H Fashion Mall/NESPRESSO示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_200_004_fix81.png)
 
 ### 10.2.1 主体素材位置
 - 主体素材可放置在左侧或右侧
@@ -2026,25 +2026,25 @@ AIGC:
 
 > 📋 **图片关键信息**：DISCOVERY SPORT/최소필수간격 30px/文本区域最高200px
 
-![DISCOVERY SPORT/최소필수간격 30px/文本区域最高200px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_012.png)
+![DISCOVERY SPORT/최소필수간격 30px/文本区域最高200px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_012_fix82.png)
 
 📌 字体规范
 
 > 📋 **图片关键信息**：#2E2E2E(Regular)/#1C1C1C(SF Pro Display)
 
-![#2E2E2E(Regular)/#1C1C1C(SF Pro Display)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_013.png)
+![#2E2E2E(Regular)/#1C1C1C(SF Pro Display)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_013_fix83.png)
 
 📌 文字构成方式
 
 > 📋 **图片关键信息**：32px Bold/26px Regular/20px
 
-![32px Bold/26px Regular/20px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_015.png)
+![32px Bold/26px Regular/20px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_015_fix84.png)
 
 📌 行间距规范
 
 > 📋 **图片关键信息**：32px(Bold)/26px(Regular)/16px
 
-![32px(Bold)/26px(Regular)/16px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_015.png)
+![32px(Bold)/26px(Regular)/16px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_015_fix85.png)
 
 ### 10.3.1 文字区域基本规范
 - 文字区域可在无左右图标时横向拉伸
@@ -2116,7 +2116,7 @@ AIGC:
 
 > 📋 **图片关键信息**：DISCOVERY SPORT/30px间距/랜딩 아이콘
 
-![DISCOVERY SPORT/30px间距/랜딩 아이콘](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_012.png)
+![DISCOVERY SPORT/30px间距/랜딩 아이콘](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B1%84%EB%84%90_280_012_fix87.png)
 
 ### 10.4.1 箭头着陆图标
 - 箭头着陆图标使用灰色调
@@ -2263,19 +2263,19 @@ AIGC:
 
 > 📋 **图片关键信息**：位置/최대사용면적/PSD下载/PS Histogram确认
 
-![位置/최대사용면적/PSD下载/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005.png)
+![位置/최대사용면적/PSD下载/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005_fix96.png)
 
 📌 素材强调
 
 > 📋 **图片关键信息**：340*190px/최소30%(19380px)/PS Histogram确认
 
-![340*190px/최소30%(19380px)/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005.png)
+![340*190px/최소30%(19380px)/PS Histogram确认](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_005_fix97.png)
 
 📌 文本信息处理
 
 > 📋 **图片关键信息**：#000000 Opacity10至20%/Size10至30px / #FFFFFF Opacity10至20%
 
-![#000000 Opacity10至20%/Size10至30px / #FFFFFF Opacity10至20%](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_003.png)
+![#000000 Opacity10至20%/Size10至30px / #FFFFFF Opacity10至20%](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EB%B0%B0%EB%84%88%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95_003_fix98.png)
 
 #### 基本规格
 
@@ -2488,7 +2488,7 @@ AIGC:
 
 > 📋 **图片关键信息**：클릭URL/1st 이미지 750x230(png)/2nd 이미지 750x200(png)/확장소재 960x540(jpg,jpeg)/시각장애인용 설명문구 100자
 
-![클릭URL/1st 이미지 750x230(png)/2nd 이미지 750x200(png)/확장소재 960x540(jpg,jpeg)/시각장애인용 설명문구 100자](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%95%EC%9E%A5%ED%98%95_001.png)
+![클릭URL/1st 이미지 750x230(png)/2nd 이미지 750x200(png)/확장소재 960x540(jpg,jpeg)/시각장애인용 설명문구 100자](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%8A%A4%ED%8E%98%EC%85%9CDA_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%95%EC%9E%A5%ED%98%95_001_fix105.png)
 
 ### 12.1 基本规格
 
@@ -2572,7 +2572,7 @@ AIGC:
 
 > 📋 **图片关键信息**：오버래핑/섬네일형/마스킹형/텍스트형 四种类型
 
-![오버래핑/섬네일형/마스킹형/텍스트형 四种类型](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_008.png)
+![오버래핑/섬네일형/마스킹형/텍스트형 四种类型](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_008_fix107.png)
 
 | 分类 | 详细说明 |
 |------|----------|
@@ -2588,7 +2588,7 @@ AIGC:
 
 > 📋 **图片关键信息**：두줄카피/한줄카피/부가정보/M다운로드 各类型适用表
 
-![두줄카피/한줄카피/부가정보/M다운로드 各类型适用表](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_009.png)
+![두줄카피/한줄카피/부가정보/M다운로드 各类型适用表](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_009_fix108.png)
 
 | 内容类型 | 对象型 | 缩略图型 | 蒙版型 | 文本型 |
 |----------|--------|----------|--------|--------|
@@ -2605,31 +2605,31 @@ AIGC:
 
 > 📋 **图片关键信息**：Spoqa Han Sans Bold 48pt/#4C4C4C/100%/Crisp + Regular 39pt/#777777
 
-![Spoqa Han Sans Bold 48pt/#4C4C4C/100%/Crisp + Regular 39pt/#777777](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_032.png)
+![Spoqa Han Sans Bold 48pt/#4C4C4C/100%/Crisp + Regular 39pt/#777777](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_032_fix109.png)
 
 📌 角括号图标指南
 
 > 📋 **图片关键信息**：텍스트와 40px 여백/190px 이상 여백 시 필수/익스팬더블 카피 가이드
 
-![텍스트와 40px 여백/190px 이상 여백 시 필수/익스팬더블 카피 가이드](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_037.png)
+![텍스트와 40px 여백/190px 이상 여백 시 필수/익스팬더블 카피 가이드](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_037_fix110.png)
 
 📌 文案通用规范
 
 > 📋 **图片关键信息**：Spoqa Han Sans Bold 48pt/Regular 39pt/취소선 예시(59,000→49,000)
 
-![Spoqa Han Sans Bold 48pt/Regular 39pt/취소선 예시(59,000→49,000)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_032.png)
+![Spoqa Han Sans Bold 48pt/Regular 39pt/취소선 예시(59,000→49,000)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_032_fix111.png)
 
 📌 咖啡类文案规范
 
 > 📋 **图片关键信息**：메인/서브 동일문구불가/최소480px/최대796px/취소선규칙/특수기호규칙
 
-![메인/서브 동일문구불가/최소480px/최대796px/취소선규칙/특수기호규칙](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_034.png)
+![메인/서브 동일문구불가/최소480px/최대796px/취소선규칙/특수기호규칙](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_034_fix112.png)
 
 📌 锁形图标指南
 
 > 📋 **图片关键信息**：40px/190px/익스팬더블 사용불가 케이스
 
-![40px/190px/익스팬더블 사용불가 케이스](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_037.png)
+![40px/190px/익스팬더블 사용불가 케이스](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_037_fix113.png)
 
 📌 一行文案规范
 
@@ -2733,7 +2733,7 @@ AIGC:
 
 > 📋 **图片关键信息**：360x247px/360x258px이상/JPG,JPEG,PNG/10MB/광고주체 텍스트로기재
 
-![360x247px/360x258px이상/JPG,JPEG,PNG/10MB/광고주체 텍스트로기재](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_046.png)
+![360x247px/360x258px이상/JPG,JPEG,PNG/10MB/광고주체 텍스트로기재](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_046_fix117.png)
 
 📌 缩略图-椭圆型
 
@@ -2751,19 +2751,19 @@ AIGC:
 
 > 📋 **图片关键信息**：최대너비315px/최소219px/투명PNG/150KB/광고주체 표기
 
-![최대너비315px/최소219px/투명PNG/150KB/광고주체 표기](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_044.png)
+![최대너비315px/최소219px/투명PNG/150KB/광고주체 표기](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_044_fix120.png)
 
 📌 缩略图-方框型2
 
 > 📋 **图片关键信息**：315x258px/10MB
 
-![315x258px/10MB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_043.png)
+![315x258px/10MB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_043_fix121.png)
 
 📌 缩略图-模糊型
 
 > 📋 **图片关键信息**：360x247px/360x258px이상/JPG,JPEG,PNG/10MB
 
-![360x247px/360x258px이상/JPG,JPEG,PNG/10MB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_046.png)
+![360x247px/360x258px이상/JPG,JPEG,PNG/10MB](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_046_fix122.png)
 
 📌 缩略图-多类型
 
@@ -2781,7 +2781,7 @@ AIGC:
 
 > 📋 **图片关键信息**：혜택/보상 강조요소/오브젝트형+썸네일형/PSD제작가능
 
-![혜택/보상 강조요소/오브젝트형+썸네일형/PSD제작가능](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_020.png)
+![혜택/보상 강조요소/오브젝트형+썸네일형/PSD제작가능](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_020_fix125.png)
 
 #### 1.4.1 对象型
 
@@ -2919,7 +2919,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Spoqa Han Sans/30pt(한줄)25pt(두줄)/#FFFFFF/Bold/7색/최대5자/할인문구만
 
-![Spoqa Han Sans/30pt(한줄)25pt(두줄)/#FFFFFF/Bold/7색/최대5자/할인문구만](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_049.png)
+![Spoqa Han Sans/30pt(한줄)25pt(두줄)/#FFFFFF/Bold/7색/최대5자/할인문구만](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_049_fix126.png)
 
 📌 徽章-旗帜型
 
@@ -2931,7 +2931,7 @@ AIGC:
 
 > 📋 **图片关键信息**：#EE2E04/#EE6D04/#ED6689/#0072DD/#25B(빨강/주황/분홍/파랑/초록/보라/검정) + 75%透明度
 
-![#EE2E04/#EE6D04/#ED6689/#0072DD/#25B(빨강/주황/분홍/파랑/초록/보라/검정) + 75%透明度](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_049.png)
+![#EE2E04/#EE6D04/#ED6689/#0072DD/#25B(빨강/주황/분홍/파랑/초록/보라/검정) + 75%透明度](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_049_fix128.png)
 
 📌 可用颜色
 
@@ -3055,7 +3055,7 @@ AIGC:
 
 > 📋 **图片关键信息**：자세히보기/구매하기/선물하기/LIVE보기/이모티콘받기/주문하기/채널추가하기 등 랜딩유형별 설정
 
-![자세히보기/구매하기/선물하기/LIVE보기/이모티콘받기/주문하기/채널추가하기 등 랜딩유형별 설정](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_027.png)
+![자세히보기/구매하기/선물하기/LIVE보기/이모티콘받기/주문하기/채널추가하기 등 랜딩유형별 설정](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_027_fix133.png)
 
 #### 1.6.1 宣传视频（必填）
 
@@ -3132,13 +3132,13 @@ AIGC:
 
 > 📋 **图片关键信息**：198*90px/좌측형서브카피주의/사용불가케이스
 
-![198*90px/좌측형서브카피주의/사용불가케이스](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_053.png)
+![198*90px/좌측형서브카피주의/사용불가케이스](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_053_fix134.png)
 
 📌 提示资产说明
 
 > 📋 **图片关键信息**：홍보이미지(필수) 1200x600px이상 2:1/JPG,JPEG,PNG/500KB + 행동유도버튼 + 닫힘버튼 84*78px
 
-![홍보이미지(필수) 1200x600px이상 2:1/JPG,JPEG,PNG/500KB + 행동유도버튼 + 닫힘버튼 84*78px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_054.png)
+![홍보이미지(필수) 1200x600px이상 2:1/JPG,JPEG,PNG/500KB + 행동유도버튼 + 닫힘버튼 84*78px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_054_fix135.png)
 
 📌 图片型规格
 
@@ -3235,7 +3235,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Student/AVI,MOV,MP4/400KB/W1280px/视频规格详细
 
-![Student/AVI,MOV,MP4/400KB/W1280px/视频规格详细](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_052.png)
+![Student/AVI,MOV,MP4/400KB/W1280px/视频规格详细](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B9%84%EC%A6%88%EB%B3%B4%EB%93%9C2_052_fix140.png)
 
 | 分类 | Asset | 尺寸 | 文件格式 | 容量 | 备注 |
 |------|-------|------|----------|------|------|
@@ -3272,13 +3272,13 @@ AIGC:
 
 > 📋 **图片关键信息**：SAFE AREA 1952*520/260
 
-![SAFE AREA 1952*520/260](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EB%8F%99%EC%98%81%EC%83%81_005.png)
+![SAFE AREA 1952*520/260](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EB%8F%99%EC%98%81%EC%83%81_005_fix142.png)
 
 📌 去底型对象规范
 
 > 📋 **图片关键信息**：②이미지와 텍스트 함께사용/아이콘+텍스트/SAFE AREA/금지영역
 
-![②이미지와 텍스트 함께사용/아이콘+텍스트/SAFE AREA/금지영역](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EB%8F%99%EC%98%81%EC%83%81_007.png)
+![②이미지와 텍스트 함께사용/아이콘+텍스트/SAFE AREA/금지영역](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EB%8F%99%EC%98%81%EC%83%81_007_fix143.png)
 
 **基本规格**
 
@@ -3303,7 +3303,7 @@ AIGC:
 
 > 📋 **图片关键信息**：누끼제작 타임보드 이미지/PC+Mobile/(W)1500px*(H)200px/600KB/SAFE AREA
 
-![누끼제작 타임보드 이미지/PC+Mobile/(W)1500px*(H)200px/600KB/SAFE AREA](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%BB%AC%EB%A0%89%EC%85%98_001.png)
+![누끼제작 타임보드 이미지/PC+Mobile/(W)1500px*(H)200px/600KB/SAFE AREA](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/GFA%ED%94%BC%EB%93%9C%EC%BB%AC%EB%A0%89%EC%85%98_001_fix144.png)
 
 📌 仅图片使用指南
 
@@ -3387,7 +3387,7 @@ AIGC:
 
 > 📋 **图片关键信息**：W1660px*H260px(광고노출시 W830px*H130px)/200kb이하/jpg,jpeg,gif,png/최소텍스트사이즈28px
 
-![W1660px*H260px(광고노출시 W830px*H130px)/200kb이하/jpg,jpeg,gif,png/최소텍스트사이즈28px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_001.png)
+![W1660px*H260px(광고노출시 W830px*H130px)/200kb이하/jpg,jpeg,gif,png/최소텍스트사이즈28px](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/NOSP%ED%83%80%EC%9E%84%EB%B3%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_001_fix147.png)
 
 📌 制作注意事项
 
@@ -3449,7 +3449,7 @@ AIGC:
 
 > 📋 **图片关键信息**：1.프로필 이름 및 이미지/2.로고 이미지(선택,PNG투명배경)/3.프로필 URL
 
-![1.프로필 이름 및 이미지/2.로고 이미지(선택,PNG투명배경)/3.프로필 URL](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/ADVoost_001.png)
+![1.프로필 이름 및 이미지/2.로고 이미지(선택,PNG투명배경)/3.프로필 URL](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/ADVoost_001_fix150.png)
 
 广告图片经过以下步骤生成：**图片上传 → 背景去除 → 背景颜色选择**
 
@@ -3639,7 +3639,7 @@ AIGC:
 
 > 📋 **图片关键信息**：Spoqa Han Sans Bold/32pt/#36393D/취소선(59,000→49,000)
 
-![Spoqa Han Sans Bold/32pt/#36393D/취소선(59,000→49,000)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%ED%8B%B0%EB%A7%B5_009.png)
+![Spoqa Han Sans Bold/32pt/#36393D/취소선(59,000→49,000)](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@main/naver/%ED%8B%B0%EB%A7%B5_009_fix159.png)
 
 **文本区域最大长度：468 px（图片区域最小）**
 **文本区域最小长度：348 px（图片区域最大）**
