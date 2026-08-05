@@ -97,7 +97,7 @@ AIGC:
 
 > 📋 **图片关键信息**：DO/DON'T对比图：背景必须填充、不可留空/异质色/裁切
 
-![DO/DON'T对比图：背景必须填充、不可留空/异质色/裁切](https://www.coze.cn/s/yQtXg6nh7IA/)
+![DO/DON'T对比图：背景必须填充、不可留空/异质色/裁切](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_4.png)
 
 **图片关键信息提取**：
 
@@ -162,7 +162,7 @@ AIGC:
 
 > 📋 **图片关键信息**：背景区域处理DO/DON'T对比：背景必须填满制作尺寸，不可留空/异质色/裁切不当
 
-![背景区域处理DO/DON'T对比：背景必须填满制作尺寸，不可留空/异质色/裁切不当](https://www.coze.cn/s/0TlWPWVuTYU/)
+![背景区域处理DO/DON'T对比：背景必须填满制作尺寸，不可留空/异质色/裁切不当](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_6.png)
 
 #### 背景使用规则
 
@@ -214,7 +214,7 @@ AIGC:
 
 > 📋 **图片关键信息**：极限表达限制规则：涉及竞争产品的广告需凭证，比较广告可无凭证等
 
-![极限表达限制规则：涉及竞争产品的广告需凭证，比较广告可无凭证等](https://www.coze.cn/s/zXiyMBCckeQ/)
+![极限表达限制规则：涉及竞争产品的广告需凭证，比较广告可无凭证等](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_7.png)
 
 **不可使用极限表达的广告类型**：
 - 视频对象（经营史、竞争产品）的表达
@@ -977,7 +977,7 @@ AIGC:
 
 > 📋 **图片关键信息**：禁止使用部分事实误导/无依据比较/粗语/暴力/违法/重复特殊符号/联系方式等
 
-![禁止使用部分事实误导/无依据比较/粗语/暴力/违法/重复特殊符号/联系方式等](https://www.coze.cn/s/2wtflB_NOkg/)
+![禁止使用部分事实误导/无依据比较/粗语/暴力/违法/重复特殊符号/联系方式等](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_39.png)
 
 📌 广告图片尺寸750x500
 
@@ -1468,7 +1468,7 @@ AIGC:
 
 > 📋 **图片关键信息**：A:上半身含脸/额 B:下半身含肚脐/膝盖 C:脚和手含脚踝/手腕
 
-![A:上半身含脸/额 B:下半身含肚脐/膝盖 C:脚和手含脚踝/手腕](https://www.coze.cn/s/3ffTn0HCqpk/)
+![A:上半身含脸/额 B:下半身含肚脐/膝盖 C:脚和手含脚踝/手腕](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_51.png)
 
 📌 字体与色彩规范
 
@@ -3043,13 +3043,13 @@ AIGC:
 
 > 📋 **图片关键信息**：동적영상/15초→30sec반복불가/3초이하등록불가/무성영상자막필수/변환오차주의
 
-![동적영상/15초→30sec반복불가/3초이하등록불가/무성영상자막필수/변환오차주의](https://www.coze.cn/s/n92P-8wcLBc/)
+![동적영상/15초→30sec반복불가/3초이하등록불가/무성영상자막필수/변환오차주의](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_131.png)
 
 📌 行动引导按钮
 
 > 📋 **图片关键信息**：선택등록/미등록시자동추출/선정성폭력성혐오감이미지사용불가/동영상연관성필수
 
-![선택등록/미등록시자동추출/선정성폭력성혐오감이미지사용불가/동영상연관성필수](https://www.coze.cn/s/nuQJqLR4F-g/)
+![선택등록/미등록시자동추출/선정성폭력성혐오감이미지사용불가/동영상연관성필수](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_132.png)
 
 📌 扩展元素制作指南
 
@@ -3465,7 +3465,7 @@ AIGC:
 
 > 📋 **图片关键信息**：상품정보/AD IX
 
-![상품정보/AD IX](https://www.coze.cn/s/F1gX1K7bf4A/)
+![상품정보/AD IX](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_152.png)
 
 | 要求项 | 具体说明 |
 |--------|----------|
@@ -3481,7 +3481,7 @@ AIGC:
 
 > 📋 **图片关键信息**：NIXSANIL/TINT/ICAIOSH投放示例
 
-![NIXSANIL/TINT/ICAIOSH投放示例](https://www.coze.cn/s/FRmFUeljNj8/)
+![NIXSANIL/TINT/ICAIOSH投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_153.png)
 
 #### 4.4.1 集成Asset注册
 
@@ -3539,7 +3539,7 @@ AIGC:
 
 > 📋 **图片关键信息**：TINTSKIN/AD/RIR投放示例
 
-![TINTSKIN/AD/RIR投放示例](https://www.coze.cn/s/GAamWbnsty8/)
+![TINTSKIN/AD/RIR投放示例](https://cdn.jsdelivr.net/gh/hslslsl/-GuidelineAI@b81096ca2813c38f978761f32b9233ec1ad444a0/naver/naver_coze_fix_155.png)
 
 - 可额外输入想要强调的福利信息，**最多8字**
 - 输入的强调要点文案会以特定形式展示
